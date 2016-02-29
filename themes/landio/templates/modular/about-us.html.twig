@@ -1,0 +1,9 @@
+<section id="quiénes_somos"class="section-intro bg-faded text-center hidden-overflow">
+    <div class="container">
+
+        {% if page.header.description  %}
+            <p class="lead wp wp-2">{{ page.header.description }}</p>
+        {% endif %}
+        {{ page.content }}
+    </div>
+</section>

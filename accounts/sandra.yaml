@@ -1,0 +1,12 @@
+email: sandra@saralabs.com
+fullname: 'Sandra Menendez'
+title: Administrator
+state: enabled
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$.raJrZEiJp/Y9hNhGgLkfetFmugI8RDQwoFru/PJ8tI5wXRaPvTLu
+reset: 'ac77bacfbd68bbab3cc5822d34b8c025::1455044185'
